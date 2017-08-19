@@ -1,0 +1,12 @@
+<? xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+	<title>Premier League Week 2 Preview</title>
+	<subtitle>looking at the games during the week</subtitle>
+	<link href="https://yzahra.github.io/worldcup/"/>
+	<updated>2017-8-19T18:00:00Z</updated>
+	<author>
+		<name>your name</name>
+		<email>you@domain.com</email>
+	</author>
+	<id>tag:yourdomain.com,2017-08-19/archive/post01</id>
+	<summary>Breaking down this weekends matchups and predicting the results between the biggest game for this week</summary>
